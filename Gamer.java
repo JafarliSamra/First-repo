@@ -38,5 +38,7 @@ public class Gamer {
         System.out.println("teesufler yanlis verdiniz");
         this.heart--;
         if(this.heart <= 0) this.gameOver("teesufler");
+
+        
      }
 }
